@@ -1,3 +1,4 @@
+/* global Template */
 var postsData = [
     {
         title: 'Introducing Telescope',
